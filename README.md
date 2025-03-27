@@ -1,5 +1,5 @@
 # Godot_URDF_Robot_Simulation
-This project provides a guideline for extracting joint-link information from an ROS `.urdf` file to load a robot model in Godot 4.x. 
+This project provides a guideline for extracting joint-link information from an ROS `.urdf` file to load a robot model in Godot 4.x. I have used the G1 Humanoid Robot from [Unitree](https://www.unitree.com/g1) for this project. The robot description file `.urdf` and the corresponding mesh files can be accessed from their [GitHub page](https://github.com/unitreerobotics/unitree_ros). For this project, I'm using the 29 DoF model.  
 
 ## Requirements
 * Download and install the latest [Godot](https://godotengine.org/) version. Make sure to download the "Godot Engine - .NET" version as it supports C#. 
