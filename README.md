@@ -11,7 +11,7 @@ This project provides a guideline for extracting joint-link information from an 
 * Import the project into Godot and click `Edit` to open the project.
 * Navigate to `Project > Tool > C#` and then select `Create C# Solution`.
 * Press `Alt + B` or click the `Build Project`( :hammer: ) button to build the project.
-* Finally, press `F5` or click the `Run Project` ( :arrow_forward: ) butoon to run the project. 
+* Finally, press `F5` or click the `Run Project` ( :arrow_forward: ) button to run the project. 
 
 **Optional:** If you'd like to develop with VS Code and use it as an external editor, then follow these steps:  
 * In Godot, navigate to `Editor > Text Editor > External`. Turn on `Use External Editor` and set `Exec Path` to your VS Code executable file `Code.exe`. 
